@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>File316.jpg</filename>
+	<path>/Volumes/Macintosh HD/Users/mditzel/Dropbox/Documents/Personal/Computer_stuff/Dundee Data Science/Lectures/Week_04/Machine Learning/Assignment ML/TensorFlowImageRecognition/DLology/object_detection_demo/data/Images/test/File316.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>323</width>
+		<height>156</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>FormulaOneCar</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>4</ymin>
+			<xmax>156</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>FormulaOneCar</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>15</ymin>
+			<xmax>323</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>
